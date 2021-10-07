@@ -1,0 +1,29 @@
+body {
+    margin: 80px;
+    background-color: rgba(242, 242, 148, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 300px;
+  }
+  
+  button {
+    background-color: gray;  
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+  }
+  
+  button:hover {
+     background-color: rgba(128, 127, 127, 0.8);
+  }
+  .mundo{
+    border: 1px solid;
+    width: 108px;
+    height: 30px;
+    border-radius: 0 10px;
+    background-color: rgba(230, 230, 230, 0.8);
+    font-weight: bolder;
+    padding: 8px 0 0 18px;
+  }
